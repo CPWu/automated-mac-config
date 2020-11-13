@@ -10,6 +10,9 @@ brew cask install visual-studio-code
 # Spectacle (https://www.spectacleapp.com) / (https://formulae.brew.sh/cask/spectacle)
 brew cask install spectacle
 # Microsoft Teams (https://www.microsoft.com/en-us/microsoft-365/microsoft-teams/download-app) / (https://formulae.brew.sh/cask/microsoft-teams#default)
+brew cask install microsoft-teams
+# Sourcetree (https://www.sourcetreeapp.com) / (https://formulae.brew.sh/cask/sourcetree)
+brew cask install sourcetree
 
 # Mac App Store CLI (https://github.com/mas-cli/mas) / (https://formulae.brew.sh/formula/mas#default)
 brew install mas
@@ -28,3 +31,6 @@ brew tap buo/cask-upgrade
 mas install 497799835
 # Slack
 mas install 803453959
+
+# Check for Updates:
+# brew cu
