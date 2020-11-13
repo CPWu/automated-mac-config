@@ -20,3 +20,7 @@ Why do we a brew add-on? Run brew cu and you will out how easy it is to manage u
 ## Authors
 
 Repository managed by [Chun Wu](https://github.com/cpwu)
+
+## License
+
+MIT 
