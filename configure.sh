@@ -15,6 +15,8 @@ brew cask install microsoft-teams
 brew cask install sourcetree
 # OBS (https://obsproject.com) / (https://formulae.brew.sh/cask/obs)
 brew cask install obs
+# Zoom US (https://www.zoom.us/) / (https://formulae.brew.sh/cask/zoomus)
+brew cask install zoomus
 
 # Mac App Store CLI (https://github.com/mas-cli/mas) / (https://formulae.brew.sh/formula/mas#default)
 brew install mas
