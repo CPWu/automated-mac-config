@@ -13,6 +13,8 @@ brew cask install spectacle
 brew cask install microsoft-teams
 # Sourcetree (https://www.sourcetreeapp.com) / (https://formulae.brew.sh/cask/sourcetree)
 brew cask install sourcetree
+# OBS (https://obsproject.com) / (https://formulae.brew.sh/cask/obs)
+brew cask install obs
 
 # Mac App Store CLI (https://github.com/mas-cli/mas) / (https://formulae.brew.sh/formula/mas#default)
 brew install mas
