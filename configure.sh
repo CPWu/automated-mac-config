@@ -26,6 +26,8 @@ brew install terraform
 brew install awscli
 # Azure CLI (https://docs.microsoft.com/cli/azure/overview) / (https://formulae.brew.sh/formula/azure-cli#default)
 brew install azure-cli
+# Terragrunt (https://formulae.brew.sh/formula/terragrunt) / (https://github.com/gruntwork-io/terragrunt)
+brew install terragrunt
 
 # brew-cask-upgrade (https://github.com/buo/homebrew-cask-upgrade)
 brew tap buo/cask-upgrade
