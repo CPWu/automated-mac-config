@@ -6,17 +6,19 @@ brew install cask
 
 
 # Visual Studio Code (https://www.visualstudio.com/vs/visual-studio-mac/) / (https://formulae.brew.sh/cask/visual-studio#default)
-brew cask install visual-studio-code
+brew install --cask visual-studio-code
 # Spectacle (https://www.spectacleapp.com) / (https://formulae.brew.sh/cask/spectacle)
-brew cask install spectacle
+brew install --cask spectacle
 # Microsoft Teams (https://www.microsoft.com/en-us/microsoft-365/microsoft-teams/download-app) / (https://formulae.brew.sh/cask/microsoft-teams#default)
-brew cask install microsoft-teams
+brew install --cask microsoft-teams
 # Sourcetree (https://www.sourcetreeapp.com) / (https://formulae.brew.sh/cask/sourcetree)
-brew cask install sourcetree
+brew install --cask sourcetree
 # OBS (https://obsproject.com) / (https://formulae.brew.sh/cask/obs)
-brew cask install obs
+brew install --cask obs
 # Zoom US (https://www.zoom.us/) / (https://formulae.brew.sh/cask/zoomus)
-brew cask install zoomus
+brew install --cask zoomus
+# Discord (https://discord.com) / (https://formulae.brew.sh/cask/discord)
+brew install --cask discord
 
 # Mac App Store CLI (https://github.com/mas-cli/mas) / (https://formulae.brew.sh/formula/mas#default)
 brew install mas
