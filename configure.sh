@@ -19,6 +19,10 @@ brew install --cask obs
 brew install --cask zoomus
 # Discord (https://discord.com) / (https://formulae.brew.sh/cask/discord)
 brew install --cask discord
+# Menu Meters (https://member.ipmu.jp/yuji.tachikawa/MenuMetersElCapitan/) / (https://formulae.brew.sh/cask/menumeters)
+brew install --cask menumeters
+# Docker Desktop (https://www.docker.com/products/docker-desktop) / (https://formulae.brew.sh/cask/docker#default)
+brew install --cask docker
 
 # Mac App Store CLI (https://github.com/mas-cli/mas) / (https://formulae.brew.sh/formula/mas#default)
 brew install mas
@@ -28,9 +32,12 @@ brew install terraform
 brew install awscli
 # Azure CLI (https://docs.microsoft.com/cli/azure/overview) / (https://formulae.brew.sh/formula/azure-cli#default)
 brew install azure-cli
-# Terragrunt (https://formulae.brew.sh/formula/terragrunt) / (https://github.com/gruntwork-io/terragrunt)
+# Terragrunt (https://github.com/gruntwork-io/terragrunt)/ (https://formulae.brew.sh/formula/terragrunt) / 
 brew install terragrunt
-
+# Kubernetes-cli (https://kubernetes.io/) / (https://formulae.brew.sh/formula/kubernetes-cli)
+brew install kubernetes-cli
+# speedtest-cli (https://github.com/sivel/speedtest-cli) / (https://formulae.brew.sh/formula/speedtest-cli#default)
+brew install speedtest-cli
 # brew-cask-upgrade (https://github.com/buo/homebrew-cask-upgrade)
 brew tap buo/cask-upgrade
 
