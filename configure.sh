@@ -40,12 +40,16 @@ brew install kubernetes-cli
 brew install speedtest-cli
 # brew-cask-upgrade (https://github.com/buo/homebrew-cask-upgrade)
 brew tap buo/cask-upgrade
+# Golang (https://golang.org) / (https://formulae.brew.sh/formula/go#default)
+brew install go
 
 # Installation Using MAS CLI & Application ID
 # Xcode
 mas install 497799835
 # Slack
 mas install 803453959
+# Pages
+mas install 409201541
 
 # Check for Updates:
 # brew cu
