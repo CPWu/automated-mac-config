@@ -23,6 +23,8 @@ brew install --cask discord
 brew install --cask menumeters
 # Docker Desktop (https://www.docker.com/products/docker-desktop) / (https://formulae.brew.sh/cask/docker#default)
 brew install --cask docker
+# Google Chrome (https://www.google.com/chrome/) / (https://formulae.brew.sh/cask/google-chrome#default)
+brew install --cask google-chrome
 
 # Mac App Store CLI (https://github.com/mas-cli/mas) / (https://formulae.brew.sh/formula/mas#default)
 brew install mas
@@ -50,6 +52,8 @@ mas install 497799835
 mas install 803453959
 # Pages
 mas install 409201541
+# Numbers
+mas install 409203825
 
 # Check for Updates:
 # brew cu
