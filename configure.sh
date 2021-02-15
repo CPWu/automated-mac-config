@@ -54,6 +54,10 @@ mas install 803453959
 mas install 409201541
 # Numbers
 mas install 409203825
+# Excel
+mas install 462058435
+# Microsoft Remote Desktop
+mas install 1295203466
 
 # Check for Updates:
 # brew cu
