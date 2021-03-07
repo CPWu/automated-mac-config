@@ -1,6 +1,9 @@
 # Install Homebrew
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
 
+# Install Apple Command Line Tools
+xcode-select --install
+
 # Install Software Using brew
 brew install cask
 
