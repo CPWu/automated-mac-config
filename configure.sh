@@ -30,6 +30,8 @@ brew install --cask docker
 brew install --cask google-chrome
 # Slack (https://slack.com/) / (https://formulae.brew.sh/cask/slack) 
 brew install --cask slack
+# Box (https://www.box.com/drive) / (https://formulae.brew.sh/cask/box-drive#default)
+brew install --cask box-drive
 
 # Mac App Store CLI (https://github.com/mas-cli/mas) / (https://formulae.brew.sh/formula/mas#default)
 brew install mas
@@ -53,8 +55,6 @@ brew install go
 # Installation Using MAS CLI & Application ID
 # Xcode
 mas install 497799835
-# Slack
-mas install 803453959
 # Pages
 mas install 409201541
 # Numbers
