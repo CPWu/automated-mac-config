@@ -28,6 +28,8 @@ brew install --cask menumeters
 brew install --cask docker
 # Google Chrome (https://www.google.com/chrome/) / (https://formulae.brew.sh/cask/google-chrome#default)
 brew install --cask google-chrome
+# Slack (https://slack.com/) / (https://formulae.brew.sh/cask/slack) 
+brew install --cask slack
 
 # Mac App Store CLI (https://github.com/mas-cli/mas) / (https://formulae.brew.sh/formula/mas#default)
 brew install mas
