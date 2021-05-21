@@ -32,6 +32,10 @@ brew install --cask google-chrome
 brew install --cask slack
 # Box (https://www.box.com/drive) / (https://formulae.brew.sh/cask/box-drive#default)
 brew install --cask box-drive
+# Webex (https://www.webex.com/) / (https://formulae.brew.sh/cask/webex-meetings)
+brew install --cask webex-meetings
+# MySQL Workbench (https://www.mysql.com/products/workbench/)/(https://formulae.brew.sh/cask/mysqlworkbench)
+brew install --cask mysqlworkbench
 
 # Mac App Store CLI (https://github.com/mas-cli/mas) / (https://formulae.brew.sh/formula/mas#default)
 brew install mas
