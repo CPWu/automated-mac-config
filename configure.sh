@@ -67,6 +67,7 @@ mas install 409203825
 mas install 462058435
 # Microsoft Remote Desktop
 mas install 1295203466
-
+# Microsoft Word
+mas install 462054704
 # Check for Updates:
 # brew cu
