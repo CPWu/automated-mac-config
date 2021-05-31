@@ -36,6 +36,8 @@ brew install --cask box-drive
 brew install --cask webex-meetings
 # MySQL Workbench (https://www.mysql.com/products/workbench/)/(https://formulae.brew.sh/cask/mysqlworkbench)
 brew install --cask mysqlworkbench
+# Adobe Reader (https://formulae.brew.sh/cask/adobe-acrobat-reader) / https://acrobat.adobe.com/us/en/acrobat/pdf-reader.html
+brew install --cask adobe-acrobat-reader
 
 # Mac App Store CLI (https://github.com/mas-cli/mas) / (https://formulae.brew.sh/formula/mas#default)
 brew install mas
