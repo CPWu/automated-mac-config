@@ -57,6 +57,8 @@ brew install speedtest-cli
 brew tap buo/cask-upgrade
 # Golang (https://golang.org) / (https://formulae.brew.sh/formula/go#default)
 brew install go
+# Python (https://www.python.org/)/(https://formulae.brew.sh/formula/python@3.7)
+brew install python@3.9.5
 
 # Installation Using MAS CLI & Application ID
 # Xcode
