@@ -61,6 +61,8 @@ brew tap buo/cask-upgrade
 brew install go
 # Python (https://www.python.org/)/(https://formulae.brew.sh/formula/python@3.7)
 brew install python@3.9.5
+# git-remote-codecommit (https://github.com/aws/git-remote-codecommit)/(https://formulae.brew.sh/formula/git-remote-codecommit#default)
+brew install git-remote-codecommit
 
 # Installation Using MAS CLI & Application ID
 # Xcode
