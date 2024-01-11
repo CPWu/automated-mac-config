@@ -34,6 +34,8 @@ brew install --cask slack
 # brew install --cask mysqlworkbench
 # # Adobe Reader (https://formulae.brew.sh/cask/adobe-acrobat-reader) / https://acrobat.adobe.com/us/en/acrobat/pdf-reader.html
 # brew install --cask adobe-acrobat-reader
+# # Plex Media Player (https://formulae.brew.sh/cask/plex) / (https://www.plex.tv/)
+brew install --cask plex
 
 # Mac App Store CLI (https://github.com/mas-cli/mas) / (https://formulae.brew.sh/formula/mas#default)
 brew install mas
