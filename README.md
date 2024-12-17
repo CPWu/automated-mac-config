@@ -2,6 +2,8 @@
 
 This bash script will automate the configuration for any Mac User with a developer focus. It uses a combination of homebrew, mas-cli (Mac App Store CLI), cask,  and manually downloads for undisclosed apps that are not in aformentioned platforms.
 
+Need has occurred where I maintain a certiain configuration for work vs personal and thus I have split the configurations into two separate bash scripts. One for work (configure-work.sh) and one for personal (configure-personal.sh)
+
 ## Foreword
 
 This is an opinionated way to configure a mac.
