@@ -59,6 +59,10 @@ brew install go
 # brew-cask-upgrade (https://github.com/buo/homebrew-cask-upgrade)
 brew tap buo/cask-upgrade
 
+# AI Coding Assistants
+# Cursor (https://formulae.brew.sh/cask/cursor-cli)
+brew install --cask cursor-cli
+
 # Check for Updates:
 brew cu
 brew update
