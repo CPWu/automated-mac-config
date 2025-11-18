@@ -38,6 +38,8 @@ brew install --cask vlc
 brew install --cask zoom
 # Prusa Slicer (https://formulae.brew.sh/cask/prusaslicer)
 brew install --cask prusaslicer
+# Pi Imager (https://formulae.brew.sh/cask/raspberry-pi-imager)
+brew install --cask raspberry-pi-imager
 
 # # CLIs
 # # Mac App Store CLI (https://github.com/mas-cli/mas) / (https://formulae.brew.sh/formula/mas#default)
@@ -58,13 +60,20 @@ brew install uv
 brew install go
 # brew-cask-upgrade (https://github.com/buo/homebrew-cask-upgrade)
 brew tap buo/cask-upgrade
+# Kubens (https://formulae.brew.sh/formula/kubectx)
+brew install kubectx
 
 # AI Coding Assistants
 # Cursor (https://formulae.brew.sh/cask/cursor-cli)
 brew install --cask cursor-cli
 # Gemini (https://formulae.brew.sh/formula/gemini-cli)
 brew install gemini-cli
-
+# Codex (https://formulae.brew.sh/cask/codex)
+brew install --cask codex
+# Claude Code (https://formulae.brew.sh/cask/claude-code#default)
+brew install --cask claude-code
+# SDL2 Libraries for PyGame on Mac
+brew install sdl2 sdl2_image sdl2_mixer sdl2_ttf
 
 # Check for Updates:
 brew cu
